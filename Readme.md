@@ -108,4 +108,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or feedback, feel free to reach out:
 
 - Name: Natnael Alemayehu
-- Email: [your-email@example.com](mailto:se.natnael.alemayehu@gmail.com)
+- Email: [se.natnael.alemayehu@gmail.com](mailto:se.natnael.alemayehu@gmail.com)
